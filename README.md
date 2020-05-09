@@ -1,4 +1,4 @@
-# C++ Arduino Robot
+# Arduino Robot
 
 This repository contains a collection of Arduino scripts (in C++) to drive control a wheeled robot.
 The current script is still work in progress, but it is simple to understand easly modified.
